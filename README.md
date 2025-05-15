@@ -4,11 +4,12 @@
 
 ## Advanced AI-Powered Trading Assistant & Market Analysis Platform
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)]()
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge)]()
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://yukina-ai.cloud)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://x.com/Aiyoukinaagent)
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=flat)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat)](https://yukina-ai.cloud)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://x.com/Aiyoukinaagent)
+
 
 
 Yukina AI is a sophisticated artificial intelligence platform designed to revolutionize trading analysis and social media interaction in the financial markets. By combining advanced machine learning algorithms with real-time market data processing, Yukina AI provides comprehensive trading insights and automated analysis.
