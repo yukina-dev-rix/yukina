@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=flat)
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat)](https://yukina-ai.cloud)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://x.com/Aiyoukinaagent)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://x.com/Aiyukinaagent)
 
 
 
